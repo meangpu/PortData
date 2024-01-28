@@ -1,0 +1,42 @@
+{
+  "certificateData": [
+    {
+      "name": "Terosoft",
+      "des": "",
+      "img": "/Certificate/Terosoft.webp",
+      "date": "nov 2022"
+    },
+    {
+      "name": "PTT first round",
+      "des": "",
+      "img": "/Certificate/PTT.webp",
+      "date": "jun 2023"
+    },
+    {
+      "name": "PTT first round",
+      "des": "",
+      "img": "/Certificate/PTT.webp",
+      "date": "jun 2023"
+    },
+    {
+      "name": "PTT final round",
+      "des": "",
+      "img": "/Certificate/PTT_DigitalContentLabFinalRound.webp",
+      "date": "aug 2023"
+    },
+    {
+      "name": "PTT award",
+      "des": "",
+      "img": "/Certificate/ptt_award.webp",
+      "date": "aug 2023",
+      "url": "https://www.facebook.com/photo/?fbid=246057445063469&set=pcb.246059355063278"
+    },
+    {
+      "name": "code combat",
+      "des": "",
+      "img": "/Certificate/codecombatWin.webp",
+      "date": "nov 2023",
+      "url": "https://www.facebook.com/photo/?fbid=202227909589767&set=pcb.202230422922849"
+    }
+  ]
+}

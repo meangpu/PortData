@@ -1,0 +1,14 @@
+{
+  "gameData": [
+    {
+      "name": "SPOLS",
+      "des": "SPOLS is an educational game designed for children between the ages of 14 and 17 to improve their understanding of factoring polynomials in math.",
+      "img": "/Img/spols.jpg",
+      "video": "/Video/spols.mp4",
+      "githubLink": "/",
+      "demoLink": "https://meangpu.github.io/SPOLS/",
+      "youtubeLink": "/",
+      "date": "may-july 2022"
+    }
+  ]
+}

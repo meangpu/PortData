@@ -1,0 +1,77 @@
+{
+  "gameData": [
+    {
+      "name": "Thai VR boxing",
+      "des": "This app is a demo of a small Thai VR boxing game. It originated during the <b style='color:#4db5ff;'>Content Lab camp</b> (March-May 2023) with support from <b style='color:#4db5ff;'>PTT</b> and <b style='color:#4db5ff;'>CEA</b>. The app immerses you in the world of Thai boxing through exciting virtual reality technology. This provides an opportunity for everyone to experience and enjoy Muay Thai-style combat in a unique manner.<br>The game caters to individuals who appreciate virtual reality games, take pleasure in gaming, or are interested in exercising through virtual reality. It offers a chance to learn and have fun with the movements and techniques of Muay Thai martial arts. Our team's goal is to create an application and a virtual reality environment that genuinely captures the essence of Muay Thai. It is accessible to anyone, regardless of age or gender, who wishes to give it a try. My main role in this project is <b style='color:#4db5ff;'>programmer</b> and connect all model/asset into unity",
+      "img": "/Img/ThaiBoxing.webp",
+      "video": "/Video/thaiBoxing.mp4",
+      "date": "Apr 2023 - Aug 2023",
+      "youtubeLink": "https://youtu.be/2YlxPAuAlEg"
+    },
+    {
+      "name": "Horse Leg VR",
+      "des": "Our team collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a virtual reality simulation of a horse leg. The simulation has three main features: <br>- the ability to identify leg part names <br>- conduct an ultrasound simulation<br>- and perform an X-ray simulation <br> We also added a fun mini-game where players can arrange the bone structure. You <b style='color:#4db5ff;'>can download</b> by click <b style='color:#4db5ff;'>play button</b> and download our project from the Oculus store. My friend made the models, and I did most of the coding. We worked hard to make the simulation high-quality, and we think you'll like it. ",
+      "img": "/Img/horseLeg.webp",
+      "video": "/Video/horseLeg.mp4",
+      "demoLink": "https://www.oculus.com/experiences/quest/4800527946700602/",
+      "date": "Aug 2022 - Jul 2023",
+      "youtubeLink": "https://youtu.be/l4duoecyy7A"
+    },
+    {
+      "name": "War Of Tolusin",
+      "des": "This game is a hybrid of <b style='color:#4db5ff;'>tower-defense</b> and a <b style='color:#4db5ff;'>top-down shooter</b>. You are in full control of your tank to defend the base as the enemies come along the path. <br>You can upgrade your tank or the towers by collecting coins from dead enemies. This provides more freedom for the player as they can entirely invest in one thing (towers), instead of the character's tank for example. <br>The player's tank will be equipped with a coin magnet which will pull coins nearby towards the player and other 2 powerful abilities that will help the player turns the tide of the battle. This project was made back in May-June 2021 as part of an <b style='color:#4db5ff;'>internship</b> and was discontinued since.",
+      "img": "/Img/Intern.webp",
+      "video": "/Video/Intern.mp4",
+      "githubLink": "https://github.com/meangpu/InternProjectDME/",
+      "demoLink": "https://meangpu.github.io/InternProjectDME/WebBuild/index.html",
+      "date": "May - June 2021"
+    },
+    {
+      "name": "SPOLS",
+      "des": "Meet SPOLS, an educational game designed for kids aged 14 to 17. It's all about making polynomial factoring in math easier to understand. This is my very first solo project for sale. It's got 8 levels, and each level teaches about a different part of polynomial factoring. The game mixes learning with fun, and it's a big step for me in making learning math cool. With SPOLS, I want to help kids explore math concepts in an interactive and enjoyable way, showing that learning can be exciting and entertaining.",
+      "img": "/Img/spols.webp",
+      "video": "/Video/spols.mp4",
+      "githubLink": "https://github.com/meangpu/SPOLS",
+      "demoLink": "https://meangpu.github.io/SPOLS/",
+      "date": "May - July 2022"
+    },
+    {
+      "name": "DME moba",
+      "des": "DME MOBA was my <b style='color:#4db5ff;'>final project</b> for a game programming course during my third year at university. I wanted to learn how to make a <b style='color:#4db5ff;'>multiplayer game</b>, but the project turned out to be too big, so I only finished half of it. From this experience, I learned that planning and managing the scope of a project is important before starting its development.",
+      "img": "/Img/DMEmoba.webp",
+      "video": "/Video/DMEmoba.mp4",
+      "githubLink": "https://github.com/meangpu/DMEmoba",
+      "demoLink": "https://meangpu.github.io/DMEmoba/Build//",
+      "youtubeLink": "https://youtu.be/ZU4K3Cp4190",
+      "date": "Mar - Apr 2021"
+    },
+    {
+      "name": "SmartBottle",
+      "des": "The Smart Bottle project was created to learn how to combine <b style='color:#4db5ff;'>Arduino</b> and Unity. I used a sensor to measure the water level and sent that information to Unity. The water level was represented by a tree in the game, and if you drank enough water, the tree would grow. It was a fun way to <b style='color:#4db5ff;'>encourage drinking enough water! </b> If you have Arduino you can use code in github and test it with demo on web",
+      "img": "/Img/smartBottle.webp",
+      "video": "/Video/smartBottle.mp4",
+      "githubLink": "https://github.com/meangpu/SmartBottleUnity",
+      "demoLink": "https://meangpu.github.io/SmartBottleUnity/Build/",
+      "youtubeLink": "https://youtu.be/d2QcFGX26Qc",
+      "date": "Apr 2022"
+    },
+    {
+      "name": "FlappyBirdAR",
+      "des": "I created this project to learn how to use <b style='color:#4db5ff;'>Unity's AR system</b>. I made a Flappy Bird game where players could scan images with their device camera to unlock new characters. I also learn draw pixel art for this project",
+      "img": "/Img/flappy.webp",
+      "video": "/Video/flappy.mp4",
+      "githubLink": "https://github.com/meangpu/U.AR-flappybird",
+      "youtubeLink": "https://www.youtube.com/watch?v=c9npCNMk1CE",
+      "date": "Apr 2021"
+    },
+    {
+      "name": "Chronoleaper",
+      "des": "Participate in <b><a style='color:#4db5ff;text-decoration:underline;' target='_blank' href='https://itch.io/jam/dcjam2023/rate/2007863'>Dungeon Crawler Jam 2023</a></b>, Ranked <b>15</b> from <b>191</b> Entries,<br> - Chronoleaper is a Dungeon crawler game type with theme of Duality, the game have rpg element with turn base style game play",
+      "img": "/Img/chronoleaper.webp",
+      "video": "/Video/Chronoleaper.mp4",
+      "demoLink": "https://killerzscrubbie.itch.io/chronoleaper",
+      "githubLink": "https://github.com/KillerzScrubbie/dungeon-crawler-jam",
+      "date": "apr 2023"
+    }
+  ]
+}
