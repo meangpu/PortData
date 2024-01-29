@@ -10,49 +10,49 @@
     {
       "name": "SWIM",
       "des": "alternative version of spols.",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/swim.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/swim.webp",
       "demoLink": "https://meangpu.github.io/SWIM/",
       "date": "nov 2023"
     },
     {
       "name": "HorseLegView",
       "des": "HorseLeg model view",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/horse.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/horse.webp",
       "demoLink": "https://meangpu.github.io/VR-HorseLeg-Webtest/web//",
       "date": "Aug 2022"
     },
     {
       "name": "MedVisitHome",
       "des": "visit patient home for medicine student",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/med.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/med.webp",
       "demoLink": "https://meangpu.github.io/MedEngGame/",
       "date": "Nov 2023"
     },
     {
       "name": "EngLabForFilm",
       "des": "web version for EngLabForFilm",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/movie.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/movie.webp",
       "demoLink": "https://meangpu.github.io/EnglabForFilm/",
       "date": "may 2023 - mar 2024"
     },
     {
       "name": "PAYD_Unity",
       "des": "pay as you drink",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/paydU.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/paydU.webp",
       "demoLink": "https://meangpu.github.io/PayAsYouDrinkWeb/",
       "date": "jun 2023 - mar 2024"
     },
     {
       "name": "PAYD_Web",
       "des": "pay as you drink website",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/paydW.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/paydW.webp",
       "demoLink": "https://meangpu.github.io/PayAsYouDrink/",
       "date": "jun 2023 - mar 2024"
     },
     {
       "name": "dinoWay3",
       "des": "small dino runner made in 1 day",
-      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/dino.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/dino.webp",
       "demoLink": "https://meangpu.github.io/dinoway3/",
       "date": "19 jan 2024"
     }
