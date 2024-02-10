@@ -48,6 +48,13 @@
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/dino.webp",
       "demoLink": "https://meangpu.github.io/dinoway3/",
       "date": "19 jan 2024"
+    },
+    {
+      "name": "gachaGame",
+      "des": "small gacha app that create for prize Event",
+      "img": "https://raw.githubusercontent.com/meangpu/EngLabGacha/main/preview-small.webp",
+      "demoLink": "https://meangpu.github.io/EngLabGacha/",
+      "date": "3 feb 2024"
     }
   ]
 }
