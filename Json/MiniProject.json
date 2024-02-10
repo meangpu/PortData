@@ -29,6 +29,20 @@
       "date": "may 2023 - mar 2024"
     },
     {
+      "name": "Spatial-EngLab",
+      "des": "spatial for EngLabForFilm",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/spatial-englab.webp",
+      "demoLink": "https://www.spatial.io/s/EngLabForFilm-65bc91dbc7e31915cf1e7c54?share=5431290601282240419",
+      "date": "feb 2024"
+    },
+    {
+      "name": "EngLabGacha",
+      "des": "small gacha app that create for prize Event",
+      "img": "https://raw.githubusercontent.com/meangpu/EngLabGacha/main/preview-small.webp",
+      "demoLink": "https://meangpu.github.io/EngLabGacha/",
+      "date": "3 feb 2024"
+    },
+    {
       "name": "PAYD_Unity",
       "des": "pay as you drink",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/paydU.webp",
@@ -43,18 +57,18 @@
       "date": "jun 2023 - mar 2024"
     },
     {
-      "name": "dinoWay3",
+      "name": "DinoWay3",
       "des": "small dino runner made in 1 day",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/dino.webp",
       "demoLink": "https://meangpu.github.io/dinoway3/",
       "date": "19 jan 2024"
     },
     {
-      "name": "EngLabGacha",
-      "des": "small gacha app that create for prize Event",
-      "img": "https://raw.githubusercontent.com/meangpu/EngLabGacha/main/preview-small.webp",
-      "demoLink": "https://meangpu.github.io/EngLabGacha/",
-      "date": "3 feb 2024"
+      "name": "ComputerFixerVR",
+      "des": "small computer fix VR game that I create to aim to learn the process of upload paid app to store",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/fixerVR.webp",
+      "demoLink": "https://www.meta.com/experiences/6508001269214112/?require_login=true&utm_source=developer.oculus.com&utm_medium=oculusredirect",
+      "date": "jan 2023"
     }
   ]
 }
