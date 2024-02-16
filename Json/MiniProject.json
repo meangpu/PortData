@@ -69,6 +69,14 @@
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/fixerVR.webp",
       "demoLink": "https://www.meta.com/experiences/6508001269214112/?require_login=true&utm_source=developer.oculus.com&utm_medium=oculusredirect",
       "date": "jan 2023"
-    }
+    },
+    {
+      "name": "PokeShuun",
+      "des": "a small game made with jai and unging",
+      "img": "",
+      "demoLink": "https://meangpu.github.io/PokeShuun/",
+      "date": "feb 2024"
+    },
+    {}
   ]
 }
