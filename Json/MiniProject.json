@@ -71,9 +71,16 @@
       "date": "jan 2023"
     },
     {
+      "name": "StealMangonProject",
+      "des": "small snake ladder game, steal friend concept",
+      "img": "https://github.com/meangpu/ProjectStealFriend/blob/main/StealFriend.webp",
+      "demoLink": "https://meangpu.github.io/ProjectStealFriend/",
+      "date": "oct 2023"
+    },
+    {
       "name": "PokeShuun",
       "des": "a small game made with jai and unging",
-      "img": "",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/pokeShuun.webp",
       "demoLink": "https://meangpu.github.io/PokeShuun/",
       "date": "feb 2024"
     },
