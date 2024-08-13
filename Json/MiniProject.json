@@ -64,13 +64,6 @@
       "date": "nov 2023"
     },
     {
-      "name": "HorseLegView",
-      "des": "HorseLeg model view",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/horse.webp",
-      "demoLink": "https://meangpu.github.io/VR-HorseLeg-Webtest/web//",
-      "date": "Aug 2022"
-    },
-    {
       "name": "PAYD_Unity",
       "des": "pay as you drink",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/paydU.webp",
@@ -104,6 +97,13 @@
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/garden.webp",
       "demoLink": "https://pruekjika.github.io/WebImageCompare/",
       "date": "2022-2024"
+    },
+    {
+      "name": "HorseLegView",
+      "des": "HorseLeg model view",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/horse.webp",
+      "demoLink": "https://meangpu.github.io/VR-HorseLeg-Webtest/web//",
+      "date": "Aug 2022"
     }
   ]
 }
