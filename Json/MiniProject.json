@@ -8,6 +8,13 @@
       "date": "may 2023 - mar 2024"
     },
     {
+      "name": "EngLabForFilmVR",
+      "des": "VR version for EngLabForFilm",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/movieVR.webp",
+      "demoLink": "https://www.oculus.com/deeplink/?action=view&path=/app/9668424806562771&ref=oculus_desktop",
+      "date": "may 2023 - mar 2024"
+    },
+    {
       "name": "EngLabGacha",
       "des": "small gacha app that create for prize Event",
       "img": "https://raw.githubusercontent.com/meangpu/EngLabGacha/main/preview-small.webp",
