@@ -90,6 +90,13 @@
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/pokeShuun.webp",
       "demoLink": "https://meangpu.github.io/PokeShuun/",
       "date": "feb 2024"
+    },
+    {
+      "name": "InteractionDemo2024",
+      "des": "A small interaction game",
+      "img": "https://raw.githubusercontent.com/meangpu/InteractionProjectDemo2024/main/preview.png",
+      "demoLink": "https://meangpu.github.io/InteractionProjectDemo2024/",
+      "date": "jul 2024"
     }
   ]
 }
