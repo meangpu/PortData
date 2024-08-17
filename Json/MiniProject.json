@@ -8,7 +8,7 @@
       "date": "may 2023 - mar 2024"
     },
     {
-      "name": "ELFF",
+      "name": "ELFFWeb",
       "des": "web version for EngLabForFilm",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/movie.webp",
       "demoLink": "https://meangpu.github.io/EnglabForFilm/",
@@ -37,7 +37,7 @@
     },
     {
       "name": "PokeShuun",
-      "des": "a small game made with jai and unging",
+      "des": "a clone angry-bird rpg game",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/pokeShuun.webp",
       "demoLink": "https://meangpu.github.io/PokeShuun/",
       "date": "feb 2024"
@@ -50,7 +50,7 @@
       "date": "19 jan 2024"
     },
     {
-      "name": "MedVisitHome",
+      "name": "MedVisit",
       "des": "visit patient home for medicine student",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/med.webp",
       "demoLink": "https://meangpu.github.io/MedEngGame/",
@@ -93,7 +93,7 @@
     },
     {
       "name": "Garden DB",
-      "des": "a web image database that use python to help with image processing",
+      "des": "a image database use python match",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/garden.webp",
       "demoLink": "https://pruekjika.github.io/WebImageCompare/",
       "date": "2022-2024"
