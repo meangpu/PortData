@@ -1,6 +1,20 @@
 {
   "certificateData": [
     {
+      "name": "en_project_award",
+      "des": "",
+      "img": "https://meangpu.github.io/PortData/Img/Certificate/en_project_award.webp",
+      "date": "dec 2021",
+      "url": "https://www.facebook.com/watch/live/?ref=watch_permalink&v=669841071010740"
+    },
+    {
+      "name": "graduate_paper",
+      "des": "",
+      "img": "https://meangpu.github.io/PortData/Img/Certificate/graduate_paper.webp",
+      "date": "june 2022",
+      "url": "https://th.kku.ac.th/wp-content/uploads/2022/12/commencement2565_program.pdf"
+    },
+    {
       "name": "Terosoft",
       "des": "",
       "img": "https://meangpu.github.io/PortData/Img/Certificate/Terosoft.webp",
