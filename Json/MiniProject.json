@@ -1,21 +1,21 @@
 {
   "projectData": [
     {
-      "name": "ELFFVR",
+      "name": "ELVR",
       "des": "VR version for EngLabForFilm",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/movieVR.webp",
       "demoLink": "https://www.oculus.com/deeplink/?action=view&path=/app/9668424806562771&ref=oculus_desktop",
       "date": "may 2023 - mar 2024"
     },
     {
-      "name": "ELFFWeb",
+      "name": "ELWeb",
       "des": "web version for EngLabForFilm",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/movie.webp",
       "demoLink": "https://meangpu.github.io/EnglabForFilm/",
       "date": "may 2023 - mar 2024"
     },
     {
-      "name": "Spatial-EL",
+      "name": "ELSpatial",
       "des": "spatial for EngLabForFilm",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/spatial-englab.webp",
       "demoLink": "https://www.spatial.io/s/EngLabForFilm-65bc91dbc7e31915cf1e7c54?share=5431290601282240419",
