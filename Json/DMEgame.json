@@ -1,17 +1,24 @@
 {
   "dmeData": [
     {
-      "name": "cubeFighter",
-      "des": "smash bro vs ai clone",
+      "name": "CubeFighter",
+      "des": "smash bro clone",
       "img": "https://meangpu.github.io/DMEgame/img/cubefighter.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/cubeFighter/",
       "date": "2020"
     },
     {
-      "name": "CubeClicker",
-      "des": "Cookie clone first version",
+      "name": "CC1",
+      "des": "Cookie clicker clone 1",
       "img": "https://meangpu.github.io/DMEgame/img/CubeClicker.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/CubeClicker/",
+      "date": "2019"
+    },
+    {
+      "name": "CC 2",
+      "des": "Cookie clicker clone 2",
+      "img": "https://meangpu.github.io/DMEgame/img/ClickerBetter.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
       "date": "2019"
     },
 
@@ -23,13 +30,6 @@
       "date": "2019"
     },
     {
-      "name": "cookie clicker2",
-      "des": "Cookie clicker clone 2",
-      "img": "https://meangpu.github.io/DMEgame/img/ClickerBetter.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
-      "date": "2019"
-    },
-    {
       "name": "DME run",
       "des": "unfinished cookie run clone",
       "img": "https://meangpu.github.io/DMEgame/img/DMErun.webp",
@@ -37,7 +37,7 @@
       "date": "2019"
     },
     {
-      "name": "meangpuRun",
+      "name": "meRun",
       "des": "my TA example game",
       "img": "https://meangpu.github.io/DMEgame/img/meangpuRun.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/meangpuRun/",
@@ -51,14 +51,14 @@
       "date": "2020"
     },
     {
-      "name": "ATM simulator",
-      "des": "The atm simulator, you can create money as much as you want",
+      "name": "ATM sim",
+      "des": "The atm simulator",
       "img": "https://meangpu.github.io/DMEgame/img/moneyProject.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/moneyProject/",
       "date": "2020"
     },
     {
-      "name": "KKU aquarium",
+      "name": "KKU aqua",
       "des": "1 hour Insaniquarium clone",
       "img": "https://meangpu.github.io/DMEgame/img/KKUaquarium.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/KKUaquarium/",
