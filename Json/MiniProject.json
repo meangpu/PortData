@@ -16,13 +16,13 @@
     },
     {
       "name": "ELGacha",
-      "des": "small gacha app that create for prize Event",
+      "des": "small gacha app",
       "img": "https://raw.githubusercontent.com/meangpu/EngLabGacha/main/preview-small.webp",
       "demoLink": "https://meangpu.github.io/EngLabGacha/",
       "date": "3 feb 2024"
     },
     {
-      "name": "Spatial-EngLab",
+      "name": "Spatial-EL",
       "des": "spatial for EngLabForFilm",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/spatial-englab.webp",
       "demoLink": "https://www.spatial.io/s/EngLabForFilm-65bc91dbc7e31915cf1e7c54?share=5431290601282240419",
