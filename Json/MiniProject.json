@@ -43,6 +43,13 @@
       "date": "feb 2024"
     },
     {
+      "name": "CookedClone",
+      "des": "a overcooked clone",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/overcookedClone.webp",
+      "demoLink": "https://meangpu.github.io/CookingHost/",
+      "date": "jun 2024"
+    },
+    {
       "name": "DinoWay3",
       "des": "small dino runner made in 1 day",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/dino.webp",
