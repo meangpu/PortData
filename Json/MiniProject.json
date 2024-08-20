@@ -71,14 +71,14 @@
       "date": "nov 2023"
     },
     {
-      "name": "PAYD_Unity",
-      "des": "pay as you drink",
+      "name": "PAYD_U",
+      "des": "pay as you drink unity",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/paydU.webp",
       "demoLink": "https://meangpu.github.io/PayAsYouDrinkWeb/",
       "date": "jun 2023 - mar 2024"
     },
     {
-      "name": "PAYD_Web",
+      "name": "PAYD_W",
       "des": "pay as you drink website",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/paydW.webp",
       "demoLink": "https://meangpu.github.io/PayAsYouDrink/",
