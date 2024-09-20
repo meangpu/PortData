@@ -29,6 +29,13 @@
       "date": "3 feb 2024"
     },
     {
+      "name": "LotterySim",
+      "des": "A thai lottery simulator",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/lottery.webp",
+      "demoLink": "https://meangpu.github.io/LotteryWhen/",
+      "date": "sep 2024"
+    },
+    {
       "name": "TA2024",
       "des": "A small project for TA 2024",
       "img": "https://raw.githubusercontent.com/meangpu/InteractionProjectDemo2024/main/preview.png",
