@@ -29,6 +29,13 @@
       "date": "3 feb 2024"
     },
     {
+      "name": "DoJump",
+      "des": "A doddle jump clone",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/dojump.webp",
+      "demoLink": "https://meangpu.github.io/DoJump/",
+      "date": "nov 2024"
+    },
+    {
       "name": "LotterySim",
       "des": "A thai lottery simulator",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/lottery.webp",
