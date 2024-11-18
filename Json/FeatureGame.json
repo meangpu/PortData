@@ -9,6 +9,15 @@
       "youtubeLink": "https://youtu.be/2YlxPAuAlEg"
     },
     {
+      "name": "Dog Ultrasound VR",
+      "des": "Our team collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a virtual reality simulation of a VR dog ultrasound. I did most of the coding.",
+      "img": "https://meangpu.github.io/PortData/Img/FeatureGame/VRDog.webp",
+      "video": "https://meangpu.github.io/PortData/Img/Video/VRDog.mp4",
+      "demoLink": "https://www.meta.com/experiences/6302522173128794/",
+      "date": "Feb 2024 - Mar 2024",
+      "youtubeLink": "https://youtu.be/ueS6t5Fra2o?si=NDjjIb1loU9z05C8"
+    },
+    {
       "name": "Horse Leg VR",
       "des": "Our team collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a virtual reality simulation of a horse leg. The simulation has three main features: <br>- the ability to identify leg part names <br>- conduct an ultrasound simulation<br>- and perform an X-ray simulation <br> We also added a fun mini-game where players can arrange the bone structure. You <b style='color:#4db5ff;'>can download</b> by click <b style='color:#4db5ff;'>play button</b> and download our project from the Oculus store. My friend made the models, and I did most of the coding. We worked hard to make the simulation high-quality, and we think you'll like it.",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/horseLeg.webp",
