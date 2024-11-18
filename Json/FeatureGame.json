@@ -10,7 +10,7 @@
     },
     {
       "name": "Dog Ultrasound VR",
-      "des": "Our team collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a virtual reality simulation of a VR dog ultrasound. I did most of the coding.",
+      "des": "A virtual reality simulation of a VR dog ultrasound. Aim to help create a new learning experience for veterinary student ",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/VRDog.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/VRDog.mp4",
       "demoLink": "https://www.meta.com/experiences/6302522173128794/",
