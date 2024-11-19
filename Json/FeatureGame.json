@@ -2,7 +2,7 @@
   "gameData": [
     {
       "name": "Thai VR boxing",
-      "des": "This app is a demo of a small Thai VR boxing game. It originated during the <b style='color:#4db5ff;'>Content Lab camp</b> (March-May 2023) with support from <b style='color:#4db5ff;'>PTT</b> and <b style='color:#4db5ff;'>CEA</b>. The app immerses you in the world of Thai boxing through exciting virtual reality technology. This provides an opportunity for everyone to experience and enjoy Muay Thai-style combat in a unique manner.<br>The game caters to individuals who appreciate virtual reality games, take pleasure in gaming, or are interested in exercising through virtual reality. It offers a chance to learn and have fun with the movements and techniques of Muay Thai martial arts. Our team's goal is to create an application and a virtual reality environment that genuinely captures the essence of Muay Thai. It is accessible to anyone, regardless of age or gender, who wishes to give it a try. My main role in this project is <b style='color:#4db5ff;'>programmer</b> and connect all model/asset into unity",
+      "des": "This game is create to participate in <b style='color:#4db5ff;'>Content Lab camp</b> (March-May 2023) with support from <b style='color:#4db5ff;'>PTT</b> and <b style='color:#4db5ff;'>CEA</b>. It a boxing game in VR",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/ThaiBoxing.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/thaiBoxing.mp4",
       "date": "Apr 2023 - Aug 2023",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Horse Leg VR",
-      "des": "Our team collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a virtual reality simulation of a horse leg. The simulation has three main features: <br>- the ability to identify leg part names <br>- conduct an ultrasound simulation<br>- and perform an X-ray simulation <br> We also added a fun mini-game where players can arrange the bone structure. You <b style='color:#4db5ff;'>can download</b> by click <b style='color:#4db5ff;'>play button</b> and download our project from the Oculus store. My friend made the models, and I did most of the coding. We worked hard to make the simulation high-quality, and we think you'll like it.",
+      "des": "This project is a collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a VR simulation of a horse leg. The simulation has three main features: <br>- the ability to identify leg part names <br>- conduct an ultrasound simulation<br>- and perform an X-ray simulation <br> We also added a fun mini-game where players can arrange the bone structure. If you have VR headset you can download app from the oculus store by clicking the play button.",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/horseLeg.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/horseLeg.mp4",
       "demoLink": "https://www.oculus.com/experiences/quest/4800527946700602/",
