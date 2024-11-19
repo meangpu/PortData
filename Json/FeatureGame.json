@@ -2,7 +2,7 @@
   "gameData": [
     {
       "name": "Thai VR boxing",
-      "des": "This game is create to participate in <b style='color:#4db5ff;'>Content Lab camp</b> (March-May 2023) with support from <b style='color:#4db5ff;'>PTT</b> and <b style='color:#4db5ff;'>CEA</b>. It a boxing game in VR",
+      "des": "This game is a VR boxing simulation that create to participate in <b style='color:#4db5ff;'>Content Lab camp</b> (March-May 2023) with support from <b style='color:#4db5ff;'>PTT</b> and <b style='color:#4db5ff;'>CEA</b>. This project won a second prize",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/ThaiBoxing.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/thaiBoxing.mp4",
       "date": "Apr 2023 - Aug 2023",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Horse Leg VR",
-      "des": "This project is a collaborated with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a VR simulation of a horse leg. The simulation has three main features: <br>- the ability to identify leg part names <br>- conduct an ultrasound simulation<br>- and perform an X-ray simulation <br> We also added a fun mini-game where players can arrange the bone structure. If you have VR headset you can download app from the oculus store by clicking the play button.",
+      "des": "This project is a collaboration with the veterinary faculty at <b style='color:#4db5ff;'>KKU</b> to create a VR simulation of a horse leg. It aims to help veterinary students learn horse leg anatomy and understand the process of identifying injuries in horses.",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/horseLeg.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/horseLeg.mp4",
       "demoLink": "https://www.oculus.com/experiences/quest/4800527946700602/",
@@ -38,7 +38,7 @@
     },
     {
       "name": "SPOLS",
-      "des": "Meet SPOLS, an educational game designed for kids aged 14 to 17. It's all about making polynomial factoring in math easier to understand. This is my very first solo project for sale. It's got 8 levels, and each level teaches about a different part of polynomial factoring. The game mixes learning with fun, and it's a big step for me in making learning math cool. With SPOLS, I want to help kids explore math concepts in an interactive and enjoyable way, showing that learning can be exciting and entertaining.",
+      "des": "SPOLS is an educational game designed for kids aged 14 to 17. It's got 8 levels, and each level teaches about a different part of math.",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/spols.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/spols.mp4",
       "githubLink": "https://github.com/meangpu/SPOLS",
@@ -47,7 +47,7 @@
     },
     {
       "name": "War Of Tolusin",
-      "des": "This game is a hybrid of <b style='color:#4db5ff;'>tower-defense</b> and a <b style='color:#4db5ff;'>top-down shooter</b>. You are in full control of your tank to defend the base as the enemies come along the path. <br>You can upgrade your tank or the towers by collecting coins from dead enemies. This provides more freedom for the player as they can entirely invest in one thing (towers), instead of the character's tank for example. <br>The player's tank will be equipped with a coin magnet which will pull coins nearby towards the player and other 2 powerful abilities that will help the player turns the tide of the battle. This project was made back in May-June 2021 as part of an <b style='color:#4db5ff;'>internship</b> and was discontinued since.",
+      "des": "This game is a hybrid of <b style='color:#4db5ff;'>tower-defense</b> and a <b style='color:#4db5ff;'>top-down shooter</b>. You can control tank and buy tower to defend the base as the enemies come along the path. This project was made back in May-June 2021 as part of an <b style='color:#4db5ff;'>internship</b> and was discontinued since.",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/Intern.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/Intern.mp4",
       "githubLink": "https://github.com/meangpu/InternProjectDME/",
