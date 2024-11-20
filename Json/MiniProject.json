@@ -126,14 +126,6 @@
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/horse.webp",
       "demoLink": "https://meangpu.github.io/VR-HorseLeg-Webtest/web//",
       "date": "Aug 2022"
-    },
-    {
-      "name": "bomb VR",
-      "des": "a VR bomb defuse game",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/bomb_vr.webp",
-      "demoLink": "https://www.youtube.com/watch?v=_CsgghXv7PQ",
-      "youtubeLink": "https://www.youtube.com/watch?v=nGLAWkADuas",
-      "date": "Aug 2022"
     }
   ]
 }

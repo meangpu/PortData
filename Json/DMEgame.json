@@ -1,6 +1,14 @@
 {
   "dmeData": [
     {
+      "name": "bomb VR",
+      "des": "a VR bomb defuse game",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/bomb_vr.webp",
+      "demoLink": "https://www.youtube.com/watch?v=_CsgghXv7PQ",
+      "youtubeLink": "https://www.youtube.com/watch?v=nGLAWkADuas",
+      "date": "Aug 2022"
+    },
+    {
       "name": "KidBright",
       "des": "a simple math game",
       "img": "https://meangpu.github.io/PortData/Img/UniversityProject/kid_bright.webp",
