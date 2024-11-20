@@ -8,35 +8,6 @@
       "date": "2020"
     },
     {
-      "name": "CC1",
-      "des": "Cookie clicker clone 1",
-      "img": "https://meangpu.github.io/DMEgame/img/CubeClicker.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/CubeClicker/",
-      "date": "2019"
-    },
-    {
-      "name": "CC 2",
-      "des": "Cookie clicker clone 2",
-      "img": "https://meangpu.github.io/DMEgame/img/ClickerBetter.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
-      "date": "2019"
-    },
-
-    {
-      "name": "DME jump",
-      "des": "platformer game ",
-      "img": "https://meangpu.github.io/DMEgame/img/DMEjump.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/DMEjump/",
-      "date": "2019"
-    },
-    {
-      "name": "DME run",
-      "des": "unfinished cookie run clone",
-      "img": "https://meangpu.github.io/DMEgame/img/DMErun.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/DMErun/",
-      "date": "2019"
-    },
-    {
       "name": "meRun",
       "des": "my TA example game",
       "img": "https://meangpu.github.io/DMEgame/img/meangpuRun.webp",
@@ -58,21 +29,6 @@
       "date": "2020"
     },
     {
-      "name": "KKU aqua",
-      "des": "1 hour Insaniquarium clone",
-      "img": "https://meangpu.github.io/DMEgame/img/KKUaquarium.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/KKUaquarium/",
-      "date": "2019"
-    },
-    {
-      "name": "DinoWay",
-      "des": "The running dinosaur original",
-      "img": "https://meangpu.github.io/DMEgame/img/Dinaoway.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/Dinaoway/",
-      "date": "2019"
-    },
-
-    {
       "name": "DME fight",
       "des": "2D local fighting game",
       "img": "https://meangpu.github.io/DMEgame/img/DMEfight.webp",
@@ -87,6 +43,62 @@
       "date": "2020"
     },
     {
+      "name": "Snake",
+      "des": "human vs ai snake game",
+      "img": "https://meangpu.github.io/DMEgame/img/snake.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/Snake/",
+      "date": "2020"
+    },
+    {
+      "name": "XO 3D",
+      "des": "XO game in 3D",
+      "img": "https://meangpu.github.io/PortData/Img/OldPoject/XO3D.webp",
+      "demoLink": "https://meangpu.github.io/MyPlayProject/XO/",
+      "date": "2019"
+    },
+    {
+      "name": "KKU aqua",
+      "des": "1 hour Insaniquarium clone",
+      "img": "https://meangpu.github.io/DMEgame/img/KKUaquarium.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/KKUaquarium/",
+      "date": "2019"
+    },
+    {
+      "name": "DinoWay",
+      "des": "The running dinosaur original",
+      "img": "https://meangpu.github.io/DMEgame/img/Dinaoway.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/Dinaoway/",
+      "date": "2019"
+    },
+    {
+      "name": "DME jump",
+      "des": "platformer game ",
+      "img": "https://meangpu.github.io/DMEgame/img/DMEjump.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DMEjump/",
+      "date": "2019"
+    },
+    {
+      "name": "DME run",
+      "des": "unfinished cookie run clone",
+      "img": "https://meangpu.github.io/DMEgame/img/DMErun.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DMErun/",
+      "date": "2019"
+    },
+    {
+      "name": "CC1",
+      "des": "Cookie clicker clone 1",
+      "img": "https://meangpu.github.io/DMEgame/img/CubeClicker.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/CubeClicker/",
+      "date": "2019"
+    },
+    {
+      "name": "CC 2",
+      "des": "Cookie clicker clone 2",
+      "img": "https://meangpu.github.io/DMEgame/img/ClickerBetter.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
+      "date": "2019"
+    },
+    {
       "name": "NamAroi",
       "des": "JOJO need water",
       "img": "https://meangpu.github.io/DMEgame/img/NamAroi.webp",
@@ -94,11 +106,11 @@
       "date": "2019"
     },
     {
-      "name": "Snake",
-      "des": "human vs ai snake game",
-      "img": "https://meangpu.github.io/DMEgame/img/snake.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/Snake/",
-      "date": "2020"
+      "name": "ShellSort",
+      "des": "shell sort simulation",
+      "img": "https://meangpu.github.io/PortData/Img/OldPoject/ShellSort.webp",
+      "demoLink": "https://meangpu.github.io/MyPlayProject/ShellSort/",
+      "date": "2019"
     }
   ]
 }
