@@ -57,6 +57,20 @@
       "date": "2019"
     },
     {
+      "name": "RandomFoodKKU",
+      "des": "a random food sim",
+      "img": "https://meangpu.github.io/PortData/Img/OldProject/RandomFood.webp",
+      "demoLink": "https://meangpu.github.io/MyPlayProject/RandomFoodKKUBest/",
+      "date": "2019"
+    },
+    {
+      "name": "ShellSort",
+      "des": "shell sort simulation",
+      "img": "https://meangpu.github.io/PortData/Img/OldProject/ShellSort.webp",
+      "demoLink": "https://meangpu.github.io/MyPlayProject/ShellSort/",
+      "date": "2019"
+    },
+    {
       "name": "KKU aqua",
       "des": "1 hour Insaniquarium clone",
       "img": "https://meangpu.github.io/DMEgame/img/KKUaquarium.webp",
@@ -103,13 +117,6 @@
       "des": "JOJO need water",
       "img": "https://meangpu.github.io/DMEgame/img/NamAroi.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/NamAroi/",
-      "date": "2019"
-    },
-    {
-      "name": "ShellSort",
-      "des": "shell sort simulation",
-      "img": "https://meangpu.github.io/PortData/Img/OldProject/ShellSort.webp",
-      "demoLink": "https://meangpu.github.io/MyPlayProject/ShellSort/",
       "date": "2019"
     }
   ]
