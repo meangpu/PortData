@@ -135,6 +135,14 @@
       "youtubeLink": "https://www.youtube.com/watch?v=nGLAWkADuas",
       "youtubeGamePlayLink": "https://www.youtube.com/watch?v=_CsgghXv7PQ",
       "date": "Aug 2022"
+    },
+    {
+      "name": "3D model",
+      "des": "SilverChariot model",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/silver_chariot.webp",
+      "demoLink": "https://www.youtube.com/watch?v=tW7QTMEqVeQ",
+      "youtubeLink": "https://www.youtube.com/watch?v=tW7QTMEqVeQ",
+      "date": "nov 2020"
     }
   ]
 }
