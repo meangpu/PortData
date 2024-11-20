@@ -57,7 +57,7 @@
       "date": "2019"
     },
     {
-      "name": "RandomFoodKKU",
+      "name": "FoodKKU",
       "des": "a random food sim",
       "img": "https://meangpu.github.io/PortData/Img/OldProject/RandomFood.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/RandomFoodKKUBest/",
@@ -68,6 +68,7 @@
       "des": "shell sort simulation",
       "img": "https://meangpu.github.io/PortData/Img/OldProject/ShellSort.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/ShellSort/",
+      "youtubeLink": "https://youtu.be/XtwjkySNujk?si=bihLFI15rewqXRme",
       "date": "2019"
     },
     {
