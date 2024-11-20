@@ -136,11 +136,18 @@
       "date": "Aug 2022"
     },
     {
+      "name": "KidBright",
+      "des": "a simple math game",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/kid_bright.webp",
+      "demoLink": "https://meangpu.github.io/MyPlayProject/kidBright/Export//",
+      "youtubeLink": "https://www.youtube.com/watch?v=9V3Ww0Ge8w8",
+      "date": "nov 2021"
+    },
+    {
       "name": "3D model",
       "des": "SilverChariot model",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/silver_chariot.webp",
       "demoLink": "https://www.youtube.com/watch?v=tW7QTMEqVeQ",
-      "youtubeLink": "https://www.youtube.com/watch?v=tW7QTMEqVeQ",
       "date": "nov 2020"
     }
   ]
