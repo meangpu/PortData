@@ -3,7 +3,7 @@
     {
       "name": "KidBright",
       "des": "a simple math game",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/kid_bright.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/kid_bright.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/kidBright/Export//",
       "youtubeLink": "https://www.youtube.com/watch?v=9V3Ww0Ge8w8",
       "date": "nov 2021"
@@ -11,91 +11,91 @@
     {
       "name": "watchUI",
       "des": "UI design for watch",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/watch_ui.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/watch_ui.webp",
       "demoLink": "https://www.youtube.com/watch?v=Y4t_kOfmVbU",
       "date": "nov 2020"
     },
     {
       "name": "3D model",
       "des": "SilverChariot model",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/silver_chariot.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/silver_chariot.webp",
       "demoLink": "https://www.youtube.com/watch?v=tW7QTMEqVeQ",
       "date": "nov 2020"
     },
     {
       "name": "Egg",
       "des": "3D animation loop",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/egg_anim.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/egg_anim.webp",
       "demoLink": "https://www.youtube.com/watch?v=3LZyNbozSoI",
       "date": "mar 2020"
     },
     {
       "name": "CubeSmash",
       "des": "smash bro clone",
-      "img": "https://meangpu.github.io/DMEgame/img/cubefighter.webp",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/CubeSmash.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/cubeFighter/",
       "date": "2020"
     },
     {
       "name": "meRun",
       "des": "my TA example game",
-      "img": "https://meangpu.github.io/DMEgame/img/meangpuRun.webp",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/meRun.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/meangpuRun/",
       "date": "2020"
     },
     {
       "name": "StonePet",
       "des": "stone as pet simulator",
-      "img": "https://meangpu.github.io/DMEgame/img/StonePet.webp",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/StonePet.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/StonePet/",
       "date": "2020"
     },
     {
       "name": "ATM sim",
       "des": "The atm simulator",
-      "img": "https://meangpu.github.io/DMEgame/img/moneyProject.webp",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/ATM_sim.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/moneyProject/",
-      "date": "2020"
-    },
-    {
-      "name": "DME fight",
-      "des": "2D local fighting game",
-      "img": "https://meangpu.github.io/DMEgame/img/DMEfight.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/DMEfight/",
       "date": "2020"
     },
     {
       "name": "DME Fight 2",
       "des": "version 2 of DME fight",
-      "img": "https://meangpu.github.io/DMEgame/img/DmeFightV2.webp",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/DMEFight2.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/DmeFightV2/",
+      "date": "2020"
+    },
+    {
+      "name": "DME Fight",
+      "des": "2D local fighting game",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/DMEFight.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/DMEfight/",
       "date": "2020"
     },
     {
       "name": "Snake",
       "des": "human vs ai snake game",
-      "img": "https://meangpu.github.io/DMEgame/img/snake.webp",
+      "img": "https://meangpu.github.io/PortData/UniversityProject/Snake.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/Snake/",
       "date": "2020"
     },
     {
-      "name": "XO 3D",
+      "name": "XO3D",
       "des": "XO game in 3D",
-      "img": "https://meangpu.github.io/PortData/Img/OldProject/XO3D.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/XO3D.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/XO/",
       "date": "2019"
     },
     {
       "name": "FoodKKU",
       "des": "a random food sim",
-      "img": "https://meangpu.github.io/PortData/Img/OldProject/RandomFood.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/FoodKKU.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/RandomFoodKKUBest/",
       "date": "2019"
     },
     {
       "name": "ShellSort",
       "des": "shell sort simulation",
-      "img": "https://meangpu.github.io/PortData/Img/OldProject/ShellSort.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/ShellSort.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/ShellSort/",
       "youtubeLink": "https://youtu.be/XtwjkySNujk?si=bihLFI15rewqXRme",
       "date": "2019"
@@ -103,63 +103,63 @@
     {
       "name": "KKU aqua",
       "des": "1 hour Insaniquarium clone",
-      "img": "https://meangpu.github.io/DMEgame/img/KKUaquarium.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/KKUAqua.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/KKUaquarium/",
       "date": "2019"
     },
     {
       "name": "DinoWay",
       "des": "The running dinosaur original",
-      "img": "https://meangpu.github.io/DMEgame/img/Dinaoway.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/DinoWay.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/Dinaoway/",
       "date": "2019"
     },
     {
       "name": "DME jump",
       "des": "Platformer game ",
-      "img": "https://meangpu.github.io/DMEgame/img/DMEjump.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/DMEjump.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/DMEjump/",
       "date": "2019"
     },
     {
       "name": "DME run",
       "des": "unfinished cookie run clone",
-      "img": "https://meangpu.github.io/DMEgame/img/DMErun.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/DMErun.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/DMErun/",
+      "date": "2019"
+    },
+    {
+      "name": "CC2",
+      "des": "Cookie clicker clone 2",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/CC2.webp",
+      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
       "date": "2019"
     },
     {
       "name": "CC1",
       "des": "Cookie clicker clone 1",
-      "img": "https://meangpu.github.io/DMEgame/img/CubeClicker.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/CC1.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/CubeClicker/",
-      "date": "2019"
-    },
-    {
-      "name": "CC 2",
-      "des": "Cookie clicker clone 2",
-      "img": "https://meangpu.github.io/DMEgame/img/ClickerBetter.webp",
-      "demoLink": "https://meangpu.github.io/DMEgame/ClickerBetter/",
       "date": "2019"
     },
     {
       "name": "NamAroi",
       "des": "JOJO need water",
-      "img": "https://meangpu.github.io/DMEgame/img/NamAroi.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/NamAroi.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/NamAroi/",
       "date": "2019"
     },
     {
       "name": "CAD_2",
       "des": "Drawing CAD watch",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/cad_watch.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/cad_watch.webp",
       "demoLink": "https://www.youtube.com/watch?v=2bja8xIeSEQ",
       "date": "apr 2019"
     },
     {
       "name": "CAD_1",
       "des": "Drawing CAD cow",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/cad_cow.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/cad_cow.webp",
       "demoLink": "https://www.youtube.com/watch?v=vjJmpzLXHE4",
       "date": "feb 2019"
     }
