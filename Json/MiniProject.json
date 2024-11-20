@@ -144,11 +144,39 @@
       "date": "nov 2021"
     },
     {
+      "name": "watchUI",
+      "des": "UI design for watch",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/watch_ui.webp",
+      "demoLink": "https://www.youtube.com/watch?v=Y4t_kOfmVbU",
+      "date": "nov 2020"
+    },
+    {
+      "name": "Egg",
+      "des": "3D animation loop",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/egg_anim.webp",
+      "demoLink": "https://www.youtube.com/watch?v=3LZyNbozSoI",
+      "date": "mar 2020"
+    },
+    {
       "name": "3D model",
       "des": "SilverChariot model",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/silver_chariot.webp",
       "demoLink": "https://www.youtube.com/watch?v=tW7QTMEqVeQ",
       "date": "nov 2020"
+    },
+    {
+      "name": "CAD_2",
+      "des": "Drawing CAD watch",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/cad_watch.webp",
+      "demoLink": "https://www.youtube.com/watch?v=2bja8xIeSEQ",
+      "date": "apr 2019"
+    },
+    {
+      "name": "CAD_1",
+      "des": "Drawing CAD cow",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/cad_cow.webp",
+      "demoLink": "https://www.youtube.com/watch?v=vjJmpzLXHE4",
+      "date": "feb 2019"
     }
   ]
 }
