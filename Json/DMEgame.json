@@ -32,49 +32,49 @@
     {
       "name": "CubeSmash",
       "des": "smash bro clone",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/CubeSmash.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/CubeSmash.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/cubeFighter/",
       "date": "2020"
     },
     {
       "name": "meRun",
       "des": "my TA example game",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/meRun.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/meRun.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/meangpuRun/",
       "date": "2020"
     },
     {
       "name": "StonePet",
       "des": "stone as pet simulator",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/StonePet.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/StonePet.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/StonePet/",
       "date": "2020"
     },
     {
       "name": "ATM sim",
       "des": "The atm simulator",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/ATM_sim.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/ATM_sim.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/moneyProject/",
       "date": "2020"
     },
     {
       "name": "DME Fight 2",
       "des": "version 2 of DME fight",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/DMEFight2.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/DMEFight2.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/DmeFightV2/",
       "date": "2020"
     },
     {
       "name": "DME Fight",
       "des": "2D local fighting game",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/DMEFight.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/DMEFight.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/DMEfight/",
       "date": "2020"
     },
     {
       "name": "Snake",
       "des": "human vs ai snake game",
-      "img": "https://meangpu.github.io/PortData/UniversityProject/Snake.webp",
+      "img": "https://meangpu.github.io/PortData/Img/UniversityProject/Snake.webp",
       "demoLink": "https://meangpu.github.io/DMEgame/Snake/",
       "date": "2020"
     },
