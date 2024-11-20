@@ -52,7 +52,7 @@
     {
       "name": "XO 3D",
       "des": "XO game in 3D",
-      "img": "https://meangpu.github.io/PortData/Img/OldPoject/XO3D.webp",
+      "img": "https://meangpu.github.io/PortData/Img/OldProject/XO3D.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/XO/",
       "date": "2019"
     },
@@ -108,7 +108,7 @@
     {
       "name": "ShellSort",
       "des": "shell sort simulation",
-      "img": "https://meangpu.github.io/PortData/Img/OldPoject/ShellSort.webp",
+      "img": "https://meangpu.github.io/PortData/Img/OldProject/ShellSort.webp",
       "demoLink": "https://meangpu.github.io/MyPlayProject/ShellSort/",
       "date": "2019"
     }
