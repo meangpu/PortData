@@ -3,22 +3,30 @@
     {
       "name": "ELVR",
       "des": "VR version for EngLabForFilm",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/movieVR.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/englab_vr.webp",
       "demoLink": "https://www.oculus.com/deeplink/?action=view&path=/app/9668424806562771&ref=oculus_desktop",
       "date": "may 2023 - mar 2024"
     },
     {
       "name": "ELWeb",
       "des": "web version for EngLabForFilm",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/movie.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/englab_web.webp",
       "demoLink": "https://meangpu.github.io/EnglabForFilm/",
       "date": "may 2023 - mar 2024"
     },
     {
       "name": "ELSpatial",
       "des": "spatial for EngLabForFilm",
-      "img": "https://meangpu.github.io/PortData/Img/MiniProject/spatial-englab.webp",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/englab_spatial.webp",
       "demoLink": "https://www.spatial.io/s/EngLabForFilm-65bc91dbc7e31915cf1e7c54?share=5431290601282240419",
+      "date": "feb 2024"
+    },
+    {
+      "name": "ELGuide",
+      "des": "user guide for EngLabForFilm",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/englab_guide.webp",
+      "demoLink": "https://meangpu.github.io/EnglabForFilm/UserGuideVR/",
+      "youtubeLink": "https://www.youtube.com/playlist?list=PLVJk_LgwnzHr8FCe3rGRrPvn6vTpQLMEp",
       "date": "feb 2024"
     },
     {
