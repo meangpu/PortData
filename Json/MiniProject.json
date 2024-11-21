@@ -37,6 +37,13 @@
       "date": "3 feb 2024"
     },
     {
+      "name": "VRSummary",
+      "des": "all VR project",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/vr_sum.webp",
+      "demoLink": "https://docs.google.com/document/d/1JK_MMwFirBZU0ZEYiDu0Sq2ih3gSxTzhN0MYeYx_EnY/edit?usp=sharing",
+      "date": "nov 2024"
+    },
+    {
       "name": "DoJump",
       "des": "A doddle jump clone",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/dojump.webp",
