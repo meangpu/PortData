@@ -73,6 +73,13 @@
       "date": "feb 2024"
     },
     {
+      "name": "URP",
+      "des": "my default urp template",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/urp.webp",
+      "demoLink": "https://meangpu.github.io/3DURP/",
+      "date": "nov 2024"
+    },
+    {
       "name": "Cooked",
       "des": "a overcooked clone",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/overcookedClone.webp",
