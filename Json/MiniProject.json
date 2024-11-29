@@ -73,6 +73,13 @@
       "date": "feb 2024"
     },
     {
+      "name": "GunFire",
+      "des": "mobile game clone",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/mobileGunFire.webp",
+      "demoLink": "https://meangpu.github.io/MobileGunFire/",
+      "date": "nov 2024"
+    },
+    {
       "name": "URP",
       "des": "my default urp template",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/urp.webp",
