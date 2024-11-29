@@ -5,6 +5,7 @@
       "des": "This game is a VR boxing simulation that create to participate in <b style='color:#4db5ff;'>Content Lab camp</b> (March-May 2023) with support from <b style='color:#4db5ff;'>PTT</b> and <b style='color:#4db5ff;'>CEA</b>. This project won a second prize",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/ThaiBoxing.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/thaiBoxing.mp4",
+      "demoLink": "https://youtu.be/2YlxPAuAlEg",
       "date": "Apr 2023 - Aug 2023",
       "youtubeLink": "https://youtu.be/2YlxPAuAlEg"
     },
@@ -79,6 +80,7 @@
       "des": "I created this project to learn how to use <b style='color:#4db5ff;'>Unity's AR system</b>. I made a Flappy Bird game where players could scan images with their device camera to unlock new characters. I also learn draw pixel art for this project",
       "img": "https://meangpu.github.io/PortData/Img/FeatureGame/flappy.webp",
       "video": "https://meangpu.github.io/PortData/Img/Video/flappy.mp4",
+      "demoLink": "https://www.youtube.com/watch?v=c9npCNMk1CE",
       "githubLink": "https://github.com/meangpu/U.AR-flappybird",
       "youtubeLink": "https://www.youtube.com/watch?v=c9npCNMk1CE",
       "date": "Apr 2021"
