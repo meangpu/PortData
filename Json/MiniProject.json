@@ -164,6 +164,13 @@
       "date": "2022-2024"
     },
     {
+      "name": "Terosoft",
+      "des": "Terosoft camp proj",
+      "img": "https://meangpu.github.io/PortData/Img/MiniProject/terosoft_camp.webp",
+      "demoLink": "https://meangpu.github.io/TerosoftCamp/",
+      "date": "Nov 2022"
+    },
+    {
       "name": "ModelView",
       "des": "HorseLeg model view",
       "img": "https://meangpu.github.io/PortData/Img/MiniProject/horse.webp",
